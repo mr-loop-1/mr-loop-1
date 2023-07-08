@@ -1,4 +1,4 @@
-![Screenshot from 2023-01-25 22-47-20](https://user-images.githubusercontent.com/62374784/216936366-4d4c0e98-73f6-4c43-bc6c-b3b0e093dcfb.png)
+<!-- ![Screenshot from 2023-01-25 22-47-20](https://user-images.githubusercontent.com/62374784/216936366-4d4c0e98-73f6-4c43-bc6c-b3b0e093dcfb.png) -->
 
 ### Hello there ♨️
 
