@@ -2,6 +2,10 @@
 
 ### Hello there ♨️
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,nestjs,react,nextjs)](https://skillicons.dev)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raushan1156&label=Profile%20views&color=0e75b6&style=flat" alt="raushan1156" /> </p>
+
 <img width="20px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
 
 <!-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'> -->
