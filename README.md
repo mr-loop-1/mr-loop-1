@@ -2,6 +2,12 @@
 
 ### Hello there ♨️
 
+<img width="20px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
+
+<!-- <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'> -->
+![nextjs](https://github.com/mr-loop-1/mr-loop-1/assets/62374784/4510ab45-25e5-40e2-b50b-bd0672658bde)
+
+
 <!--
 **mr-loop-1/mr-loop-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
