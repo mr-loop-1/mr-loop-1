@@ -1,6 +1,5 @@
 <!-- ![Screenshot from 2023-01-25 22-47-20](https://user-images.githubusercontent.com/62374784/216936366-4d4c0e98-73f6-4c43-bc6c-b3b0e093dcfb.png) -->
 
-### Hello there ♨
 <h1 align="center">It's Abdul Samad ♨</h1>
 <!-- <h2 align="center"> -->
 
@@ -10,15 +9,17 @@ I am a student, sde intern, learner and avid reader. Find me below...
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abs1412/)
 [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/iabdsam)
 
-## My top 5 projects
+## Top 5
+1. Job Portal Api (nestjs, postgresql, objection) ([github](https://github.com/mr-loop-1/job-portal-nestjs))
 
-### 1. aarview ecommerce site
-- I made it for my fathers graphic design profession
-- Attempted to make it in multiple ways through templates, ready-made backend etc. But in the end I decided to decouple a Vercel Commerce template from its default medusajs backend server. This was done because my father's requirements were different than what was available in thier integration.
-- I instead made a nodejs server and heavily modified vercel commerce to integrate it. The postgres database on aws rds now connects with this server now. As for medusajs server, since the database schema was not modified, I plugged it onto the 
+2. aarview (nodejs, medusajs, nextjs, postgresql) ([link](https://aarview.com))
 
+3. Green Webhook Proxy (redwoodJs, postgresql, prisma) ([github](https://github.com/mr-loop-1/green-webhook)) ([link](https://greenwebhook.netlify.app/))
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mr-loop-1&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+4. Metro Ticket Website (nodejs, express, mySql) ([github](https://github.com/mr-loop-1/Metro-Ticket-App-sql)) ([link](http://metro-mysql-dev.ap-south-1.elasticbeanstalk.com))
+
+5. Path finder in Mongodb (nodejs, reactjs, mongodb) ([github](https://github.com/mr-loop-1/Rail-Path-Finder-mongo)) ([link](http://railpathfinder.herokuapp.com/))
+
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c)
