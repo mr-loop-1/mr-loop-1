@@ -1,9 +1,11 @@
 <!-- ![Screenshot from 2023-01-25 22-47-20](https://user-images.githubusercontent.com/62374784/216936366-4d4c0e98-73f6-4c43-bc6c-b3b0e093dcfb.png) -->
 
 <h1 align="center">It's Abdul Samad ♨</h1>
-<!-- <h2 align="center"> -->
+<p align="center">iabdulsamad1412@gmail.com</p>
 
 I am a student, sde intern, learner and avid reader. Find me below...
+
+(I am Looking for Job/Internship)
 
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/13087086/mr-loop)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abs1412/)
