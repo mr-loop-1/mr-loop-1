@@ -6,6 +6,7 @@
 I am a student, sde intern, learner and avid reader. Find me below...
 
 (I am Looking for Job/Internship)
+main repos are down for indefinite time
 
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/13087086/mr-loop)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abs1412/)
