@@ -1,35 +1,22 @@
 <!-- ![Screenshot from 2023-01-25 22-47-20](https://user-images.githubusercontent.com/62374784/216936366-4d4c0e98-73f6-4c43-bc6c-b3b0e093dcfb.png) -->
 
-<h1 align="center">It's Abdul Samad ♨</h1>
-<p align="center">iabdulsamad1412@gmail.com</p>
-
-I am a student, sde intern, learner and avid reader. Find me below...
-
-(I am Looking for Job/Internship)
 
 
-!
+find me at ... [https://abdulsamad-omega.vercel.app/](https://abdulsamad-omega.vercel.app/)
 
-main repos are down for indefinite time
+email me at ... [iabdulsamad1412@gmail.com](mailto:iabdulsamad1412@gmail.com)
 
-!
-
-
+<!--
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/13087086/mr-loop)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abs1412/)
 [![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/iabdsam)
 
 ## Top
 1. Job Portal Api (nestjs, postgresql, objection) ([github](https://github.com/mr-loop-1/job-portal-nestjs))
-
 2. aarview (nodejs, medusajs, nextjs, postgresql) ([link](https://aarview.com))
-
 3. Green Webhook Proxy (redwoodJs, postgresql, prisma) ([github](https://github.com/mr-loop-1/green-webhook)) ([link](https://greenwebhook.netlify.app/))
-
 4. Metro Ticket Website (nodejs, express, mysql) ([github](https://github.com/mr-loop-1/Metro-Ticket-App-sql)) ([link](http://metro-mysql-dev.ap-south-1.elasticbeanstalk.com))
-
 5. Path finder in Mongodb (nodejs, reactjs, mongodb) ([github](https://github.com/mr-loop-1/Rail-Path-Finder-mongo)) ([link](http://railpathfinder.herokuapp.com/))
-
 6. Valhalla (c++) ([bug fix](https://github.com/valhalla/valhalla/pull/3590)) and MetaBrainz (sql) ([bug fix](https://github.com/metabrainz/bookbrainz-site/pull/982))
 
 ### Languages
