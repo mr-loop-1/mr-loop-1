@@ -2,7 +2,7 @@
 
 
 
-find me at ... [https://abdulsamad-omega.vercel.app/](https://abdulsamad-omega.vercel.app/)
+<!-- find me at ... [https://abdulsamad-omega.vercel.app/](https://abdulsamad-omega.vercel.app/) -->
 
 email me at ... [iabdulsamad1412@gmail.com](mailto:iabdulsamad1412@gmail.com)
 
