@@ -6,6 +6,13 @@
 
 email me at ... [iabdulsamad1412@gmail.com](mailto:iabdulsamad1412@gmail.com)
 
+##### 5 of my top contributions to community
+- pr: [valhalla/valhalla](https://github.com/valhalla/valhalla/pull/3590)
+- pr: [meteor/meteor](https://github.com/meteor/meteor/pull/12803)
+- member: [jonparker/green-webhook](https://github.com/jonparker/green-webhook)
+- member: [jeffuz/olostep-track](https://github.com/Jeffuz/Olostep-Track)
+- dev: [mr-loop-1/impact-plugins-eco](https://github.com/Green-Software-Foundation/hack/issues/148)
+
 <!--
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/13087086/mr-loop)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abs1412/)
