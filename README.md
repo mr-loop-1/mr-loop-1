@@ -6,7 +6,12 @@
 
 email me at ... [iabdulsamad1412@gmail.com](mailto:iabdulsamad1412@gmail.com)
 
+##### recent
+
+Won the dev.to DevCycle Feature Flag Challenge in Jan 2025. Check it out [here](https://dev.to/devteam/congrats-to-the-devcycle-feature-flag-challenge-winners-2jie)
+
 ##### 5 of my top contributions to community
+- dev: [devcycle sale project](https://dev.to/iabdsam/devcycle-commerce-live-sale-2epg)
 - pr: [valhalla/valhalla](https://github.com/valhalla/valhalla/pull/3590)
 - pr: [meteor/meteor](https://github.com/meteor/meteor/pull/12803)
 - member: [jonparker/green-webhook](https://github.com/jonparker/green-webhook)
