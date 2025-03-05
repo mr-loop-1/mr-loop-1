@@ -6,7 +6,7 @@
 
 email me at ... [iabdulsamad1412@gmail.com](mailto:iabdulsamad1412@gmail.com)
 
-find me at ... [linkedin: abs1412](https://linkedin.com/in/abs1412)
+find me at ... [linkedin.com/in/abs1412](https://linkedin.com/in/abs1412)
 
 ##### recent
 
