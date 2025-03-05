@@ -14,8 +14,8 @@ Won the dev.to DevCycle Feature Flag Challenge in Jan 2025. Check it out [here](
 
 ##### 5 of my top contributions to community
 - dev: [devcycle sale project](https://dev.to/iabdsam/devcycle-commerce-live-sale-2epg)
-- pr: [valhalla/valhalla](https://github.com/valhalla/valhalla/pull/3590)
-- pr: [meteor/meteor](https://github.com/meteor/meteor/pull/12803)
+- pr openstreetmap: [valhalla/valhalla #3590](https://github.com/valhalla/valhalla/pull/3590)
+- pr meteorjs: [meteor/meteor #12803](https://github.com/meteor/meteor/pull/12803)
 - member: [jonparker/green-webhook](https://github.com/jonparker/green-webhook)
 - member: [jeffuz/olostep-track](https://github.com/Jeffuz/Olostep-Track)
 - dev: [mr-loop-1/impact-plugins-eco](https://github.com/Green-Software-Foundation/hack/issues/148)
