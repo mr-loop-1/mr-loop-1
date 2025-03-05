@@ -6,6 +6,8 @@
 
 email me at ... [iabdulsamad1412@gmail.com](mailto:iabdulsamad1412@gmail.com)
 
+find me at ... [linkedin: abs1412](https://linkedin.com/in/abs1412)
+
 ##### recent
 
 Won the dev.to DevCycle Feature Flag Challenge in Jan 2025. Check it out [here](https://dev.to/devteam/congrats-to-the-devcycle-feature-flag-challenge-winners-2jie)
